@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LLD.iml" filepath="$PROJECT_DIR$/LLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture_8_Refactoring_Poor_Design_Checkout_System/Lecture_8_Refactoring_Poor_Design_Checkout_System.iml" filepath="$PROJECT_DIR$/Lecture_8_Refactoring_Poor_Design_Checkout_System/Lecture_8_Refactoring_Poor_Design_Checkout_System.iml" />
+    </modules>
+  </component>
+</project>
